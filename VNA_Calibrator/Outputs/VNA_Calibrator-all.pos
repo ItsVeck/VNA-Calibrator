@@ -1,0 +1,10 @@
+### Footprint positions - created on 2024-03-14T13:36:25+1100 ###
+### Printed by KiCad version 8.0.0
+## Unit = mm, Angle = deg.
+## Side : All
+# Ref     Val                    Package                         PosX       PosY       Rot  Side
+J1        Conn_Coaxial_Switched  Murata_MM8030_2610_Custom   165.0000  -100.0900    0.0000  top
+J2        Conn_Coaxial_Switched  Murata_MM8030_2610_Custom   113.0000  -100.0900    0.0000  top
+J3        Conn_Coaxial_Switched  Murata_MM8030_2610_Custom   139.0000  -100.0900    0.0000  top
+R1        R1                     R_0402_1005Metric_Custom    139.0000   -97.6452   90.0000  top
+## End
